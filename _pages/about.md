@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Mechatronics Engineer with a Master in Artificial Intelligence Research and 3+ Years of experience in professional Python development. I am currently pursuing opportunities to start practicing academic research to be able to become a fully fledged researcher (and eventually get a PhD). 
+Hello, my name is David Pérez Román, I am a Mechatronics Engineer with a Master in Artificial Intelligence Research and 3+ Years of experience in professional Python development. I am currently pursuing opportunities to start practicing academic research to be able to become a fully fledged researcher (and eventually get a PhD). 
 
 This is my web page, here you'll find the interesting projects I am working on or have worked on in the Portfolio section.
 
