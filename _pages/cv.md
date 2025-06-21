@@ -9,39 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+You can also see my full CV in PDF fomrat here: [Full CV](https://perezdavid-98.github.io/files/CV.pdf)
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Artificial Intelligence Research, Universidad Internacional Menéndez Pelayo (UIMP), 2024
+* B.S. in Mechatronics Engineering, Escuela Universitaria Politécnica de La Almunia (EUPLA), 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022 - Now: Software Developer (Python RPA Solutions)
+  * PARIVER (B/S/H)
+  * Duties includes: Development of Python-based RPA systems using SAP Scripting, VBA, and SQL Server. Leading the design of a scalable AI-driven solutoion to classify 100+ product classes across brands. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2021 - Spring 2022: Product Engineer
+  * HMY Yudigar
+  * Duties included: Optimized industrial furniture designs using SolidEdge/TopSolid
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI/ML 
+  * Python (PyTorch, TensorFlow, HuggingFace, scikit-learn) 
+  * NLP (Sentiment Analysis, Dependency Parsing)
+  * Supervised/Unsupervised Learning 
+  * Deep Learning (Transformers, LSTM, CNN, RNN)
+* Data & Tools
+  * SQL Server 
+  * PySpark 
+  * Git
+  * Docker 
+  * LaTeX
+  * Unix systems
+* Robotics ROS
+  * AGV programming
+  * Arduino/C++
+* Design AutoCAD
+  * Inventor
+  * SolidEdge
+  * TopSolid
 
-Publications
+
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
