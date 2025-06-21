@@ -22,7 +22,7 @@ repository               : "PerezDavid-98/PerezDavid-98.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "David Perez Roman"
   pronouns         : # example: "she/her"  
   bio              : "Mechatronics Engineer with a Master in Artificial Intelligence Research and 3+ Years of experience in professional Python development."
