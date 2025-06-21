@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also see my full CV in PDF fomrat here: [Full CV](https://perezdavid-98.github.io/files/CV.pdf)
+You can also see my full CV in PDF format here: [Full CV](https://perezdavid-98.github.io/files/CV.pdf)
 
 
 Education
@@ -21,7 +21,7 @@ Work experience
 ======
 * Spring 2022 - Now: Software Developer (Python RPA Solutions)
   * PARIVER (B/S/H)
-  * Duties includes: Development of Python-based RPA systems using SAP Scripting, VBA, and SQL Server. Leading the design of a scalable AI-driven solutoion to classify 100+ product classes across brands. 
+  * Duties includes: Development of Python-based RPA systems using SAP Scripting, VBA, and SQL Server. Leading the design of a scalable AI-driven solution to classify 100+ product classes across brands. 
 
 * Winter 2021 - Spring 2022: Product Engineer
   * HMY Yudigar
@@ -39,9 +39,10 @@ Skills
   * SQL Server 
   * PySpark 
   * Git
-  * Docker 
+  * Docker
   * LaTeX
   * Unix systems
+  * Label-studio
 * Robotics ROS
   * AGV programming
   * Arduino/C++
