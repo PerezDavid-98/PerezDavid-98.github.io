@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "es_ES"
 site_theme               : "default"
-title                    : "David Perez Roman / Page"
+title                    : "David Perez Roman / Home Page"
 title_separator          : "-"
 name                     : &name "David Perez Roman"
 description              : &description "personal description"
