@@ -11,7 +11,7 @@ Hello, my name is David Pérez Román, I am a Mechatronics Engineer with a Maste
 
 This is my web page, here you'll find the interesting projects I am working on or have worked on in the Portfolio section.
 
-You can also see my full CV in the CV section, or in PDF format here: [Full CV](https://perezdavid-98.github.io/files/CV.pdf)
+You can also see my full CV in the CV section. <!--, or in PDF format here: [Full CV](https://perezdavid-98.github.io/files/CV.pdf) -->
 
 You can read my Master's Dissertation (in Spanish) here: [Study of Decomposition Methods For Ordinal Quantification](https://perezdavid-98.github.io/files/Master_Dissertation_Study_of_Decomposition_Methods_For_Ordinal_Quantification.pdf) (I am currently working on fully translating it to English)
 

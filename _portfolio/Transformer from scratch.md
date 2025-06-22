@@ -6,7 +6,7 @@ collection: portfolio
 
 This is a project I worked on to be able to better understand the [Transformer](https://arxiv.org/abs/1706.03762) model architecture.
 
-I mainly followed the [Youtube Tutorial](https://www.youtube.com/watch?v=ISNdQcPhsts&ab_channel=UmarJamil) by Umar Jamil.
+I mainly followed this [Youtube Tutorial](https://www.youtube.com/watch?v=ISNdQcPhsts&ab_channel=UmarJamil) by Umar Jamil.
 
 This project can be found in a repository in my github under the name of [TransformersTut](https://github.com/PerezDavid-98/TransformersTut)
 
