@@ -1,6 +1,6 @@
 ---
 title: "PoS Taggers, Constituency Parsers and Dependency Parsers"
-excerpt: "This is a project I did for an NLP course in my master.<br/><img src='/images/NLP_parsers.png'>"
+excerpt: "This is a project I did for an NLP course in my master.<br/><img src='/images/NLP_Parsers.png'>"
 collection: portfolio
 ---
 
