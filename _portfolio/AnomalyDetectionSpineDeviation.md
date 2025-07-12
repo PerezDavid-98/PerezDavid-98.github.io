@@ -1,6 +1,6 @@
 ---
 title: "Anomaly Detection for a Spine Deviation dataset"
-excerpt: "For this project I did an Anomaly Detection Study.<br/><img src='/images/R_AD.png' width="500">"
+excerpt: "For this project I did an Anomaly Detection Study.<br/><img src='/images/R_AD.png'>"
 collection: portfolio
 ---
 

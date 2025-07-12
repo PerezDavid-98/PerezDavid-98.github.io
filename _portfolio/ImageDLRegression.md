@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Image Regression"
-excerpt: "This project is for one of my Master's Courses, where I build an image Regression model.<br/><img src='/images/DL_IR.png' width="500">"
+excerpt: "This project is for one of my Master's Courses, where I build an image Regression model.<br/><img src='/images/DL_IR.png'>"
 collection: portfolio
 ---
 
