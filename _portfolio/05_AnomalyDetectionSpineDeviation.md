@@ -7,7 +7,7 @@ collection: portfolio
 
 For this project I did an Anomaly Detection Study using the `R` programming language for a commonly used dataset in the literature, tailored for Anomaly Detection tasks.
 
-The dataset used is the Vertebral Column Dataset from the UCI Machine Learning Repository, which was modified for outlier detection, obtained from: [ODDS](http://odds.cs.stonybrook.edu/vertebral-dataset/).
+The dataset used is the Vertebral Column Dataset from the UCI Machine Learning Repository, which was modified for outlier detection, obtained from ODDS (Outlier Detection DataSets). 
 
 Throughout the study, several outliers were found using different approaches:
 
